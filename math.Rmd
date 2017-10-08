@@ -1,0 +1,19 @@
+---
+title: "Math"
+output: 
+  html_document: 
+    toc: false
+    toc_float: false
+    theme: cosmo
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here I'll develop the math that drives the projection.
+
+$$\rho,\beta,\gamma$$
+
+$$\frac{\partial\rho}{\partial t}=B_{\rho\beta}(\beta-\rho)+B_{\rho\gamma}(\gamma-\rho)+m_\rho\frac{\partial^2\rho}{\partial x^2}$$

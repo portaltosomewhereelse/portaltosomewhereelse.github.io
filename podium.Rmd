@@ -1,0 +1,21 @@
+---
+title: "The Podium"
+output: 
+  html_document: 
+    toc: false
+    toc_float: false
+    theme: cosmo
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here I'll discuss the podium.
+
+<center>![](~/Documents/Website/portal/signal-2017-03-04-181400.jpg)</center>
+
+<center>![](~/Documents/Website/portal/signal-2017-03-11-210429.jpg)</center>
+
+<center>![](~/Documents/Website/portal/signal-2017-03-11-210432.jpg)</center>

@@ -4,6 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "The Podium"
+      href: podium.html
+    - text: "Math"
+      href: math.html
 output:
   html_document:
     theme: cosmo
